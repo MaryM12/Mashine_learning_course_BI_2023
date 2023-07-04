@@ -1,1 +1,1 @@
-# BI_ML_2023
+# Mashine_learning_course_IB_2023
